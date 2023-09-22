@@ -1,0 +1,29 @@
+---------------------------
+|         Admins          |
+---------------------------
+
+Vārds: Admin0
+Uzvārds: Adminovs0
+Loma: Admin
+Vecums: 22
+
+Vārds: Admin1
+Uzvārds: Adminovs1
+Loma: Admin
+Vecums: 20
+
+Vārds: Admin2
+Uzvārds: Adminovs2
+Loma: Admin
+Vecums: 18
+
+Vārds: Admin3
+Uzvārds: Adminovs3
+Loma: Admin
+Vecums: 28
+
+Vārds: Admin4
+Uzvārds: Adminovs4
+Loma: Admin
+Vecums: 34
+

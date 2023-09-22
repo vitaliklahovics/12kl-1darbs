@@ -1,0 +1,73 @@
+---------------------------
+|         Admins          |
+---------------------------
+
+Vārds: Admin0
+Uzvārds: Adminovs0
+Loma: Admin
+Vecums: 22
+
+Vārds: Admin1
+Uzvārds: Adminovs1
+Loma: Admin
+Vecums: 20
+
+Vārds: Admin2
+Uzvārds: Adminovs2
+Loma: Admin
+Vecums: 18
+
+Vārds: Admin3
+Uzvārds: Adminovs3
+Loma: Admin
+Vecums: 28
+
+Vārds: Admin4
+Uzvārds: Adminovs4
+Loma: Admin
+Vecums: 34
+
+---------------------------
+|          Viesi          |
+---------------------------
+
+Vārds: Viesis0
+Uzvārds: Viesitis0
+Loma: Viesis
+Vecums: 25
+
+Vārds: Viesis1
+Uzvārds: Viesitis1
+Loma: Viesis
+Vecums: 35
+
+Vārds: Viesis2
+Uzvārds: Viesitis2
+Loma: Viesis
+Vecums: 45
+
+Vārds: Viesis3
+Uzvārds: Viesitis3
+Loma: Viesis
+Vecums: 47
+
+Vārds: Viesis4
+Uzvārds: Viesitis4
+Loma: Viesis
+Vecums: 15
+
+Vārds: Viesis5
+Uzvārds: Viesitis5
+Loma: Viesis
+Vecums: 56
+
+Vārds: Viesis6
+Uzvārds: Viesitis6
+Loma: Viesis
+Vecums: 32
+
+Vārds: Viesis7
+Uzvārds: Viesitis7
+Loma: Viesis
+Vecums: 68
+

@@ -1,0 +1,44 @@
+---------------------------
+|          Viesi          |
+---------------------------
+
+Vārds: Viesis0
+Uzvārds: Viesitis0
+Loma: Viesis
+Vecums: 25
+
+Vārds: Viesis1
+Uzvārds: Viesitis1
+Loma: Viesis
+Vecums: 35
+
+Vārds: Viesis2
+Uzvārds: Viesitis2
+Loma: Viesis
+Vecums: 45
+
+Vārds: Viesis3
+Uzvārds: Viesitis3
+Loma: Viesis
+Vecums: 47
+
+Vārds: Viesis4
+Uzvārds: Viesitis4
+Loma: Viesis
+Vecums: 15
+
+Vārds: Viesis5
+Uzvārds: Viesitis5
+Loma: Viesis
+Vecums: 56
+
+Vārds: Viesis6
+Uzvārds: Viesitis6
+Loma: Viesis
+Vecums: 32
+
+Vārds: Viesis7
+Uzvārds: Viesitis7
+Loma: Viesis
+Vecums: 68
+
